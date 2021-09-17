@@ -1,0 +1,6 @@
+C:\Users\Akhil\source\repos\Banking\BankingRepo\bin\Debug\BankingRepo.dll
+C:\Users\Akhil\source\repos\Banking\BankingRepo\bin\Debug\BankingRepo.pdb
+C:\Users\Akhil\source\repos\Banking\BankingRepo\obj\Debug\BankingRepo.csproj.AssemblyReference.cache
+C:\Users\Akhil\source\repos\Banking\BankingRepo\obj\Debug\BankingRepo.csproj.CoreCompileInputs.cache
+C:\Users\Akhil\source\repos\Banking\BankingRepo\obj\Debug\BankingRepo.dll
+C:\Users\Akhil\source\repos\Banking\BankingRepo\obj\Debug\BankingRepo.pdb
